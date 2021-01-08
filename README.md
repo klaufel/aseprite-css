@@ -1,9 +1,6 @@
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/1427623/104043023-7d7d8d80-51db-11eb-9b13-bdfd0318af90.png" alt="Aseprite logo" width="60" height="64">
-  <br/><br/>
-  Aseprite CSS
-  <br/><br/>
-</h1>
+ <img src="https://user-images.githubusercontent.com/1427623/104043023-7d7d8d80-51db-11eb-9b13-bdfd0318af90.png" alt="Aseprite logo" width="60" height="64" align="right">
+
+# Aseprite CSS
 
 <h4 align="center">Generated pixel art with CSS box shadow property based a svg image exported by [Aseprite](https://www.aseprite.org/</h4>
 
