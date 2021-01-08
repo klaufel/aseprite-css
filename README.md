@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/1427623/104043023-7d7d8d80-51db-11eb-9b13-bdfd0318af90.png"  alt="Aseprite logo" width="60" height="64">
   <br/>
   Aseprite CSS
-  <br/>
+  <br/><br/>
 </h1>
 
 <p align="center">
@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <br/>
   <img src="https://user-images.githubusercontent.com/1427623/104041446-5625c100-51d9-11eb-85e1-349feab1d787.gif" width="656" height="410">
   <br/>
 </p>
