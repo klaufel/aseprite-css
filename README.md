@@ -5,8 +5,13 @@
   <br/><br/>
 </h1>
 
-<p align="center">
+<h4 align="center">
   Generated pixel art with CSS box shadow property based a svg image exported by <a href="https://www.aseprite.org/">Aseprite</a>
+</h4>
+
+<p align="center">
+  <a href="#fire-overview">Overview</a> •
+  <a href="#rocket-getting-started">Usage</a>
 </p>
 
 <p align="center">
@@ -15,7 +20,11 @@
   <br/>
 </p>
 
-## 🚀 Usage
+## :fire: Overview
+
+CSS is awesome! Dot!
+
+## :rocket: Usage
 
 ### 1. Export Aseprite SVG image
 
