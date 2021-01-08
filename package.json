@@ -1,6 +1,6 @@
 {
   "name": "aseprite-css",
-  "version": "0.0.3-beta",
+  "version": "1.0.0",
   "description": "Generated pixel art with CSS box shadow property based a svg image exported by Aseprite.",
   "main": "./bin/aseprite-css.js",
   "bin": {
