@@ -1,0 +1,37 @@
+{
+  "name": "aseprite-css",
+  "version": "0.0.3-beta",
+  "description": "Generated pixel art with CSS box shadow property based a svg image exported by Aseprite.",
+  "main": "./bin/aseprite-css.js",
+  "bin": {
+    "aseprite-css": "./bin/aseprite-css.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klaufel/aseprite-css.git"
+  },
+  "keywords": [
+    "aseprite",
+    "css",
+    "pixel-art"
+  ],
+  "author": {
+    "name": "Juan Carlos Ruiz",
+    "email": "klaufel@gmail.com",
+    "twitter": "@klaufel",
+    "web": "https://juancarlosruiz.dev"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klaufel/aseprite-css/issues"
+  },
+  "homepage": "https://github.com/klaufel/aseprite-css#readme",
+  "dependencies": {
+    "clipboardy": "^2.3.0",
+    "commander": "^6.2.1",
+    "svgson": "^4.1.0"
+  }
+}
